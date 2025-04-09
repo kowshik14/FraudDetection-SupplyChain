@@ -1,6 +1,6 @@
 # Unveiling Hidden Patterns: A Deep Learning Framework Utilizing PCA for Fraudulent Scheme Detection in Supply Chain Analytics
 
-[![DOI](https://img.shields.io/badge/DOI-10.1234/abcd1234-blue.svg)](https://doi.org/10.1234/abcd1234)
+[![DOI](https://img.shields.io/badge/DOI-10.5815/abcd1234-blue.svg)](https://doi.org/10.5815/ijisa.2025.02.02)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
     
@@ -33,13 +33,13 @@
 
 
 ## Dataset Link
-[![DOI](https://img.shields.io/badge/DOI-10.1234/abcd1234-blue.svg)](https://doi.org/10.17632/8gx2fvg2k6.5)
+[![DOI](https://img.shields.io/badge/DOI-10.17632/abcd1234-blue.svg)](https://doi.org/10.17632/8gx2fvg2k6.5)
 
 
 ## Citation
 
 If you find this work useful, please cite our paper:  
-Kowshik Sankar Roy, Pritom Biswas Udas, Bashirul Alam, Koushik Paul, "Unveiling Hidden Patterns: A Deep Learning Framework Utilizing PCA for Fraudulent Scheme Detection in Supply Chain Analytics", International Journal of Intelligent Systems and Applications(IJISA), Vol.16, No.5, 2024. 
+Kowshik Sankar Roy, Pritom Biswas Udas, Bashirul Alam, Koushik Paul, "Unveiling Hidden Patterns: A Deep Learning Framework Utilizing PCA for Fraudulent Scheme Detection in Supply Chain Analytics", International Journal of Intelligent Systems and Applications(IJISA), Vol.17, No.2, 2025. 
 
 ## Installation
 
